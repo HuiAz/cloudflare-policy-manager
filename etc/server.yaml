@@ -1,0 +1,11 @@
+---
+cloudflare:
+  account_id: "your_account_id"
+  api_key: "your_api_key"
+  email: "your_email"
+  mode: "exclude"
+  devices:
+    - "your_device_id"
+
+rules:
+  - ''
